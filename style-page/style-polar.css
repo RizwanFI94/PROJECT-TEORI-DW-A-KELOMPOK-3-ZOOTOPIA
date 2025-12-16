@@ -13,6 +13,65 @@ body.polar-page * {
   font-family: "Poppins", sans-serif !important;
 }
 
+body.polar-page .navbar {
+  background: linear-gradient(
+    90deg,
+    rgba(16, 92, 145, 0.92),
+    rgba(3, 35, 61, 0.92)
+  ) !important;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  min-height: 64px;
+  padding: 0.55rem 2rem;
+  box-shadow: 0 6px 18px rgba(10, 51, 82, 0.35);
+}
+
+body.polar-page .navbar .navbar-brand {
+  font-weight: 800;
+  letter-spacing: 0.06em;
+  color: #ffffff !important;
+}
+
+body.polar-page .navbar .nav-link {
+  color: rgba(255, 255, 255, 0.95) !important;
+  font-weight: 600;
+  margin: 0 6px;
+  position: relative;
+  transition: color 0.2s ease;
+}
+
+body.polar-page .navbar .nav-link:hover {
+  color: #e3f4ff !important;
+}
+
+body.polar-page .navbar .nav-link.active {
+  color: #7ed3ff !important;
+}
+
+body.polar-page .navbar .nav-link::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -6px;
+  width: 0;
+  height: 2px;
+  background: #7ed3ff;
+  transition: width 0.25s ease;
+}
+
+body.polar-page .navbar .nav-link:hover::after,
+body.polar-page .navbar .nav-link.active::after {
+  width: 100%;
+}
+
+body.polar-page .navbar-toggler {
+  border-color: rgba(255, 255, 255, 0.7);
+}
+
+body.polar-page .navbar-toggler-icon {
+  filter: brightness(10);
+}
+
 .polar-hero {
   position: relative;
   height: 60vh;
@@ -22,14 +81,13 @@ body.polar-page * {
   color: #ffffff;
   text-align: left;
   overflow: hidden;
-  margin-top: 0 !important;
   padding-top: 100px;
 }
 
 .polar-hero-bg {
   position: absolute;
   inset: 0;
-  background-image: url("../Polar-img/Gambarpolar.jpg"); 
+  background-image: url("../Polar-img/Gambarpolar.jpg");
   background-size: cover;
   background-position: center;
   filter: brightness(0.9);
@@ -41,9 +99,9 @@ body.polar-page * {
   position: absolute;
   inset: 0;
   background: linear-gradient(
-      to right,
-      rgba(3, 35, 61, 0.7),
-      rgba(16, 92, 145, 0.4)
+    to right,
+    rgba(3, 35, 61, 0.7),
+    rgba(16, 92, 145, 0.4)
   );
   z-index: -1;
 }
@@ -237,4 +295,17 @@ body.polar-page * {
   .animal-info-grid {
     grid-template-columns: 1fr;
   }
+}
+
+body.polar-page footer {
+  background: linear-gradient(
+    180deg,
+    #1b7bb8,
+    #03233d
+  );
+  color: #e3f4ff;
+}
+
+body.polar-page footer p {
+  opacity: 0.95;
 }
