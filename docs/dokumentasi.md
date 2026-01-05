@@ -25,7 +25,7 @@ Melalui website ini, pengunjung dapat mempelajari karakteristik setiap habitat, 
 ## 2. Teknologi yang Digunakan
 
 ### Framework Utama
-**Both-Strap**
+**BootStrap**
 
 **Alasan Penggunaan:**
 - memudahkan pengembangan tampilan website yang responsif dan konsisten di  berbagai ukuran layar
@@ -140,28 +140,16 @@ Melalui website ini, pengunjung dapat mempelajari karakteristik setiap habitat, 
 ```
 
 
-## 5. Bukti Responsivitas, Wireframe & Tampilan
+## 5. Bukti Responsivitas
 
-1. **Responsivitas**
- 1. Desktop
- 
- 2. Tab
- 
- 3. Mobile
- 
+**1. Dekstop**
+**2. Tablet**
+**3. Mobile**
 
-2. **WireFrame**
-
-
-
-
-
-
-
-
-
-
-
+---
 
 
 ## 6. Bukti Aksesibilitas
+
+**1. Dekstop**
+**2. Mobile**
