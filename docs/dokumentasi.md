@@ -12,6 +12,29 @@ ZOOTOPIA
 Zootopia adalah platform edukasi yang didedikasikan untuk mengenalkan berbagai habitat hewan di seluruh dunia, mulai dari wilayah tropis yang rimbun hingga kutub yang membeku.
 
 Melalui website ini, pengunjung dapat mempelajari karakteristik setiap habitat, hewan-hewan yang hidup di dalamnya, serta pentingnya menjaga kelestarian lingkungan agar keanekaragaman hayati tetap terjaga.
+
+## Struktur Project
+
+```text
+.
+├─ index.html              # Halaman utama Zootopia
+├─ Tropical.html           # Halaman habitat Tropical
+├─ Arid.html               # Halaman habitat Arid / gurun
+├─ Polar.html              # Halaman habitat Polar / kutub
+├─ Aquatic.html            # Halaman habitat Aquatic / perairan
+│
+├─ style-page/
+│   ├─ style-tropical.css  # Style khusus halaman Tropical
+│   ├─ style-arid.css      # Style khusus halaman Arid
+│   ├─ style-polar.css     # Style khusus halaman Polar
+│   └─ style-aquatic.css   # Style khusus halaman Aquatic
+│
+├─ script-page/
+│   ├─ script-tropical.js  # Data & interaksi hewan Tropical
+│   ├─ script-arid.js      # Data & interaksi hewan Arid
+
+```
+
 ### Daftar Anggota Kelompok
 | No |             Nama            |    NPM   |                  Peran                     |
 |----|-----------------------------|----------|--------------------------------------------|
@@ -50,27 +73,6 @@ Melalui website ini, pengunjung dapat mempelajari karakteristik setiap habitat, 
 
 4. **Contact Whatsapp**
    - Fitur Contact WhatsApp memungkinkan pengguna menghubungi pengelola website  FishDepth secara langsung melalui WhatsApp dengan satu kali klik.
-
----
-## Struktur Project
-
-```text
-.
-├─ index.html              # Halaman utama Zootopia
-├─ Tropical.html           # Halaman habitat Tropical
-├─ Arid.html               # Halaman habitat Arid / gurun
-├─ Polar.html              # Halaman habitat Polar / kutub
-├─ Aquatic.html            # Halaman habitat Aquatic / perairan
-│
-├─ style-page/
-│   ├─ style-tropical.css  # Style khusus halaman Tropical
-│   ├─ style-arid.css      # Style khusus halaman Arid
-│   ├─ style-polar.css     # Style khusus halaman Polar
-│   └─ style-aquatic.css   # Style khusus halaman Aquatic
-│
-├─ script-page/
-│   ├─ script-tropical.js  # Data & interaksi hewan Tropical
-│   ├─ script-arid.js      # Data & interaksi hewan Arid
 
 
 ## 4. Struktur Halaman (Sitemap)
@@ -157,7 +159,7 @@ Melalui website ini, pengunjung dapat mempelajari karakteristik setiap habitat, 
 -Informasi Spesies Habitat aquatic 
 -Footer
 
-
+```
 
 ## 5. Bukti Responsivitas
 
