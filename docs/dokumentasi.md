@@ -164,12 +164,17 @@ Melalui website ini, pengunjung dapat mempelajari karakteristik setiap habitat, 
 ## 5. Bukti Responsivitas
 
 **1. Dekstop**
+![alt text](https://github.com/RizwanFI94/PROJECT-TEORI-DW-A-KELOMPOK-3-ZOOTOPIA/blob/ebd80410e416ed7188bf7dc414c4cb7741325640/Responsive/Dekstop.png?raw=true)
 **2. Tablet**
+![alt text](https://github.com/RizwanFI94/PROJECT-TEORI-DW-A-KELOMPOK-3-ZOOTOPIA/blob/ebd80410e416ed7188bf7dc414c4cb7741325640/Responsive/Tablet.png?raw=true)
 **3. Mobile**
+![alt text](https://github.com/RizwanFI94/PROJECT-TEORI-DW-A-KELOMPOK-3-ZOOTOPIA/blob/ebd80410e416ed7188bf7dc414c4cb7741325640/Responsive/Mobile.png?raw=true)
 
 ---
 
 ## 6. Bukti Aksesibilitas
 
 **1. Dekstop**
+![alt text](?raw=true)
 **2. Mobile**
+![alt text](?raw=true)
