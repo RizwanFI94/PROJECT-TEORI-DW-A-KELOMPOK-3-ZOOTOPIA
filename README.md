@@ -178,7 +178,9 @@ Melalui website ini, pengunjung dapat mempelajari karakteristik setiap habitat, 
 
 ## 6. Bukti Aksesibilitas
 
-**1. Dekstop**
-![alt text](?raw=true)
-**2. Mobile**
-![alt text](?raw=true)
+### 1. Desktop
+![Desktop](URL_DESKTOP)
+
+### 2. Mobile
+![Mobile](URL_MOBILE)
+
