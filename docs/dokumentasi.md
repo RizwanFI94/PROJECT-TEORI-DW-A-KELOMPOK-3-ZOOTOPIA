@@ -22,7 +22,7 @@
 │   ├─ script-tropical.js  # Data & interaksi hewan Tropical
 │   ├─ script-arid.js      # Data & interaksi hewan Arid
 
----
+
 ## 1. Identitas Proyek
 
 ### Nama Project
