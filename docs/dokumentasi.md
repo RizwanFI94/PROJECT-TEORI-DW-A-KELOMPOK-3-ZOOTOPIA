@@ -2,7 +2,27 @@
 ## ZOOTOPIA
 
 ---
+## Struktur Project
 
+```text
+.
+├─ index.html              # Halaman utama Zootopia
+├─ Tropical.html           # Halaman habitat Tropical
+├─ Arid.html               # Halaman habitat Arid / gurun
+├─ Polar.html              # Halaman habitat Polar / kutub
+├─ Aquatic.html            # Halaman habitat Aquatic / perairan
+│
+├─ style-page/
+│   ├─ style-tropical.css  # Style khusus halaman Tropical
+│   ├─ style-arid.css      # Style khusus halaman Arid
+│   ├─ style-polar.css     # Style khusus halaman Polar
+│   └─ style-aquatic.css   # Style khusus halaman Aquatic
+│
+├─ script-page/
+│   ├─ script-tropical.js  # Data & interaksi hewan Tropical
+│   ├─ script-arid.js      # Data & interaksi hewan Arid
+
+---
 ## 1. Identitas Proyek
 
 ### Nama Project
@@ -25,7 +45,7 @@ Melalui website ini, pengunjung dapat mempelajari karakteristik setiap habitat, 
 ## 2. Teknologi yang Digunakan
 
 ### Framework Utama
-**BootStrap**
+**BootStrap 5**
 
 **Alasan Penggunaan:**
 - memudahkan pengembangan tampilan website yang responsif dan konsisten di  berbagai ukuran layar
