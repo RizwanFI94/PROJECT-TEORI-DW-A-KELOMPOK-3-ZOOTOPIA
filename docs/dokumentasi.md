@@ -72,7 +72,7 @@ Melalui website ini, pengunjung dapat mempelajari karakteristik setiap habitat, 
 │   ├─ script-tropical.js  # Data & interaksi hewan Tropical
 │   ├─ script-arid.js      # Data & interaksi hewan Arid
 
----
+
 ## 4. Struktur Halaman (Sitemap)
 
 ```
@@ -157,7 +157,6 @@ Melalui website ini, pengunjung dapat mempelajari karakteristik setiap habitat, 
 -Informasi Spesies Habitat aquatic 
 -Footer
 
-```
 
 
 ## 5. Bukti Responsivitas
@@ -167,7 +166,6 @@ Melalui website ini, pengunjung dapat mempelajari karakteristik setiap habitat, 
 **3. Mobile**
 
 ---
-
 
 ## 6. Bukti Aksesibilitas
 
